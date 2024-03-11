@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """pascal triangle interview"""
 
+
 def pascal_triangle(n):
     """pascal triangle function"""
     if n <= 0:
